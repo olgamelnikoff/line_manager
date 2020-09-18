@@ -2,7 +2,7 @@ The program implements a software system that uses an interactive menu-driven Te
 
 To store the text lines, the program uses a database implemented as a class template. The sequence container used for this purpose is std::list.
 
-The purpose of the program is to practice the following in C++:
+The purpose of the program is to implement the following in C++:
 o	delegate runtime storage management to the Standard Template Library (STL) containers
 o	gain experience using the STL sequential containers
 o	use iterators to access and manipulate container elements
